@@ -82,4 +82,7 @@ Add a license of your choice (MIT is a common choice for small projects). This r
 
 ## Contact / author
 
+Gmail:- kartik964364@gmail.com
 See the repository owner: orignlkartik1
+
+
