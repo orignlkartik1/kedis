@@ -1,7 +1,5 @@
 # kedis
 
-### Currently, In devloping phase.
-
 A compact, educational Redis-like toy written in modern C++ (C++20). This repository contains a minimal proof-of-concept TCP server and client to explore building a key-value store and the fundamentals of a Redis-like server.
 
 Status: prototype — a single-threaded demo that accepts a connection, reads a short message, and replies. This is an experimental codebase for learning and iterating on a storage engine and protocol.
